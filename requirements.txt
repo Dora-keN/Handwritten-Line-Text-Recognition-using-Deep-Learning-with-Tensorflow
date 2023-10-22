@@ -1,0 +1,5 @@
+Tensorflow
+Flask
+Numpy
+opencv-python
+autocorrect
